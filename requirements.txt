@@ -1,0 +1,8 @@
+gradio>=5.0
+joblib>=1.4
+openai>=1.0
+scikit-learn>=1.5
+xgboost>=2.0
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
